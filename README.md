@@ -1,85 +1,75 @@
-<div align="center">
+<!-- Animated Header -->
 
-# Hi, I'm Erdem 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=220&section=header&text=ERDEM%20YİĞİTSOY&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-### Computer Engineering Student & Software Developer
+<!-- Typing Animation -->
 
-Building web, mobile and backend applications with modern technologies.
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Developer;Flutter+%7C+React+%7C+Next.js;Node.js+%7C+NestJS+%7C+TypeScript;Building+Ideas+Into+Software" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering student passionate about software development and technology.
+🎓 I am a Computer Engineering student passionate about software development and modern technologies.
 
-💻 Interested in Full-Stack Development, Mobile Development, Backend Engineering and Artificial Intelligence.
+💻 I enjoy building full-stack web applications, mobile applications, backend systems and database-driven projects.
 
-🚀 I enjoy turning ideas into practical applications and continuously improving my software engineering skills through real-world projects.
+🚀 I like turning ideas into real, functional and user-oriented software products.
 
-🧠 Currently exploring modern architectures, scalable backend systems and AI-powered applications.
+🧠 I am continuously improving my knowledge in software architecture, backend development, databases and AI-powered applications.
+
+🔭 Currently focusing on:
+
+- Full-Stack Development
+- Mobile Application Development
+- Backend & API Development
+- Database Architecture
+- Artificial Intelligence
+- Modern Software Architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,dart" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,dart,c" />
 </p>
 
-### Frameworks & Technologies
+### 🌐 Web & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,nestjs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express" />
 </p>
 
-### Databases & Tools
+### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
----
+### 🗄️ Database & DevOps
 
-## 🚀 What I'm Working On
-
-- 📱 Mobile applications with Flutter
-- 🌐 Full-Stack web applications
-- ⚙️ Backend APIs and scalable systems
-- 🤖 AI-powered applications
-- 🗄️ Database-driven projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ErdemYy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdemYy&theme=tokyonight&hide_border=true" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 What I'm Building
 
-<p align="center">
-
-<a href="https://github.com/ErdemYy">
-  <img src="https://img.shields.io/badge/GitHub-ErdemYy-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💻 "Learning by building."
-
-</div>
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  📱 Mobile Applications                     │
+│  🌐 Full-Stack Web Applications              │
+│  ⚙️ Backend APIs & Services                  │
+│  🗄️ Database Driven Systems                  │
+│  🤖 AI-Powered Applications                  │
+│                                              │
+└──────────────────────────────────────────────┘
