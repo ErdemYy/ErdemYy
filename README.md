@@ -159,3 +159,15 @@ I enjoy exploring new technologies, improving my engineering skills, and turning
     alt=""
   />
 </p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-season-animate.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
