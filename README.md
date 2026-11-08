@@ -20,6 +20,24 @@
 
 ---
 
+<!-- =============== PORTFOLIO CTA =============== -->
+
+<p align="center">
+  <a href="https://erdemyigitsoy.com">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-erdemyigitsoy.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Erdem's portfolio website" />
+  </a>
+  <a href="https://github.com/ErdemYy?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-GitHub-17212F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Interactive 3D portfolio · Selected work · Technologies · Contact</sub>
+</p>
+
+---
+
+
 ## 👨‍💻 About Me
 
 Hello! I'm Erdem, a Computer Engineering student from Türkiye with an interest in building useful, maintainable, and scalable software.
@@ -91,6 +109,29 @@ I enjoy exploring new technologies, improving my engineering skills, and turning
 
 ---
 
+<!-- =============== SELECTED PROJECTS =============== -->
+
+## 🌟 Featured Projects
+
+A selection of my work across AI, full-stack engineering, geospatial analytics, and mobile development.
+
+| Project | What it does | Focus |
+| :--- | :--- | :--- |
+| [**NetSentry AI**](https://github.com/ErdemYy/NetSentry) | AI-assisted network intrusion detection and security operations platform with explainable threat analysis. | Security · Machine Learning · Full-Stack |
+| [**Kaza Odak**](https://github.com/ErdemYy/kaza-odak) | Discovers spatial clusters in NYC collision records and explores them in an interactive 3D city. | Python · Clustering · 3D Visualization |
+| [**ŞehirNabız**](https://github.com/ErdemYy/sehir-nabiz) | Community-focused mobile platform for location-based city reports and verification (in development). | React Native · NestJS · PostGIS |
+| [**CVCraft**](https://github.com/ErdemYy/CVCraft) | Resume editor with flexible templates, live editing, and PDF export. | Next.js · React · TypeScript |
+| [**CreSite**](https://github.com/ErdemYy/CreSite) | Visual website builder featuring drag-and-drop editing and AI-assisted creation. | Next.js · 3D · Web Applications |
+| [**3D Developer Portfolio**](https://github.com/ErdemYy/erdem-portfolio) | Scroll-driven WebGL experience that presents projects through cinematic 3D scenes. | Three.js · React Three Fiber · GSAP |
+
+<p align="center">
+  <a href="https://erdemyigitsoy.com"><strong>Explore the interactive portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ErdemYy?tab=repositories">Browse all repositories</a>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -140,6 +181,9 @@ I enjoy exploring new technologies, improving my engineering skills, and turning
 ## 📫 Connect
 
 <p align="center">
+  <a href="https://erdemyigitsoy.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" />
+  </a>
   <a href="https://github.com/ErdemYy">
     <img
       src="https://img.shields.io/badge/GitHub-ErdemYy-181717?style=for-the-badge&logo=github"
